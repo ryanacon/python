@@ -10,3 +10,4 @@ En este repo coleccione funciones que fui desarrollando para resolver problemas 
 * Quitar duplicados
 * Insertar columnas en Dataframes en una posicion especifica
 * Buscar valores de columnas especificas, y generar un nuevo archivo con esa información coleccionada
+* Lectura de directorio de archivos ZIP, y tratamiento de archivos ZIPEADOS
